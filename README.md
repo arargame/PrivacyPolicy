@@ -7,8 +7,8 @@ Official privacy policies for games developed and published by **Arar Games**.
 ## Games
 
 - **[Space Dodger (Android)](spacedodger_privacypolicy_android.md)** – `com.arargames.spacedodger`
-- **[Blocked](Blocked.md)** *(Coming soon / Migration)*
-- **[Paint Trek](PaintTrek.md)** *(Coming soon / Migration)*
+- **[Blocked: Pixel Panzer (Android)](blocked_privacypolicy_android.md)** – `com.arargames.blocked`
+- **[Paint Trek (Android)](painttrek_privacypolicy_android.md)** – `com.arargame.PaintTrek.Android`
 
 ---
 
