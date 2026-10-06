@@ -13,6 +13,7 @@ Official privacy policies for games developed and published by **Arar Games**.
 | **Blocked: Pixel Panzer** | **Android** | `com.arargames.blocked` | [Android Privacy Policy](blocked_privacypolicy_android.md) |
 | **Blocked: Pixel Panzer** | **Windows / Desktop** | Microsoft Store / PC | [Desktop Privacy Policy](blocked_privacypolicy_desktop.md) |
 | **Space Dodger** | **Android** | `com.arargames.spacedodger` | [Android Privacy Policy](spacedodger_privacypolicy_android.md) |
+| **15te15** | **Android** | `com.arargames.onbesteonbes` | [Android Privacy Policy](15te15_privacypolicy_android.md) |
 
 ---
 
