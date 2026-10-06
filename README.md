@@ -23,4 +23,3 @@ Official privacy policies for games developed and published by **Arar Games**.
 - **Location:** Bursa, Türkiye
 - **Contact:** arargame@hotmail.com | korayarar@gmail.com
 - **Website:** [https://arargames.com](https://arargames.com)
-- **GitHub:** [https://github.com/arargame](https://github.com/arargame)

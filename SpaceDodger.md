@@ -160,4 +160,3 @@ If you have any questions or requests regarding this Privacy Policy:
 
 **Arar Games**  
 Email: **arargame@hotmail.com**  
-GitHub: [https://github.com/arargame](https://github.com/arargame)

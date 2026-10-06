@@ -100,7 +100,6 @@ Geliştirici: Koray Arar
 Konum: Bursa, Türkiye  
 E-posta: **arargame@hotmail.com** | **korayarar@gmail.com**  
 Web Sitesi: [https://arargames.com](https://arargames.com)  
-GitHub: [https://github.com/arargame](https://github.com/arargame)
 
 ---
 

@@ -143,4 +143,3 @@ Developer: Koray Arar
 Location: Bursa, Türkiye  
 Email: **arargame@hotmail.com** | **korayarar@gmail.com**  
 Website: [https://arargames.com](https://arargames.com)  
-GitHub: [https://github.com/arargame](https://github.com/arargame)
